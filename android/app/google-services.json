@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607735172328",
+    "project_id": "schools-united-8d4b5",
+    "storage_bucket": "schools-united-8d4b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607735172328:android:05dcf8ebb016af8bd64d5d",
+        "android_client_info": {
+          "package_name": "com.example.schools_united"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607735172328-d9j2vvli0ahse594qm5cloi09v1glj34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClMORAnZkdRoWOL_rKwNSZYLGz4ZNkKDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607735172328-d9j2vvli0ahse594qm5cloi09v1glj34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
